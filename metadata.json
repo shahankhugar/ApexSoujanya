@@ -1,0 +1,6 @@
+{
+  "name": "Apexmedia's - Video Script & Reel Production Portal",
+  "description": "Client portal for monthly social-media video script submissions and 4-reel monthly production allocation management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
