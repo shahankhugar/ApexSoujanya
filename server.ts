@@ -14,7 +14,7 @@ import type {
   PricingSettings,
   AuthUser,
   ScriptAttachment,
-} from './src/types.ts';
+} from './types.ts';
 
 const PORT = 3000;
 const DB_FILE = path.join(process.cwd(), 'data', 'database.json');
